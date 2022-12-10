@@ -44,10 +44,9 @@
 ## Projeto
 
 <p>
-   <a href="https://github.com/Vinicius999/Graphic-Analisys-Student-Alcohol-Consumption/blob/main/Graphic_Analisys_Student_Alcohol_Consumption.ipynb">
+   <a href="https://github.com/Vinicius999/Graphic-Analisys-Student-Alcohol-Consumption/blob/8683088e2e60d1d5dcbb901aacf1d40151f2202c/Graphic_Analisys_Student_Alcohol_Consumption.ipynb" target="_blank" rel="noreferrer">
         <h5>
             Graphic Analisys: Student-Alcohol-Consumption
         </h5>
    </a> 
 </p>
-
