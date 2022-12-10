@@ -43,11 +43,11 @@
 
 ## Projeto
 
-<div>
-   <a href="https://github.com/Vinicius999/EDA-IMDb-Top1000-Films/blob/main/Projeto_TopFilmes.ipynb">
+<p>
+   <a href="https://github.com/Vinicius999/Graphic-Analisys-Student-Alcohol-Consumption/blob/main/Graphic_Analisys_Student_Alcohol_Consumption.ipynb">
         <h5>
             Graphic Analisys: Student-Alcohol-Consumption
         </h5>
-    </a> 
-</div>
+   </a> 
+</p>
 
