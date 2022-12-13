@@ -42,5 +42,5 @@
 
 ## Projeto
 
-[Graphic Analisys: Student-Alcohol-Consumption](https://github.com/Vinicius999/Graphic-Analisys-Student-Alcohol-Consumption/blob/main/Graphic_Analisys_Student_Alcohol_Consumption.ipynb)
+[Data-Visualization: Student-Alcohol-Consumption](https://github.com/Vinicius999/Graphic-Analisys-Student-Alcohol-Consumption/blob/main/Graphic_Analisys_Student_Alcohol_Consumption.ipynb)
 
